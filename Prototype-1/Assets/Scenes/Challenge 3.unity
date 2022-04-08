@@ -333,6 +333,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 02e0c9a925637a44dace05564ee920f1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  speed: 10
+  rb: {fileID: 0}
 --- !u!114 &976165314
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -345,6 +347,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 02e0c9a925637a44dace05564ee920f1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  speed: 10
+  rb: {fileID: 0}
 --- !u!54 &976165315
 Rigidbody:
   m_ObjectHideFlags: 0
